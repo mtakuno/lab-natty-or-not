@@ -14,4 +14,4 @@ Inicialmente foram elaborados prompts no "ChatGPT" para geração do roteiro uti
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/mtakuno/lab-natty-or-not/blob/main/exemplos/podcast-arduino.mp3)
