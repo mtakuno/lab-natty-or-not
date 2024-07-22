@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ArduinoCast: o guia do mochileiro da robótica.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O podcast possui a temática de tecnologia, focando na linguagem c++ e em projetos de automação utilizando arduino, para entusiastas de tecnologia e DIY. Toda a estrutura foi pensada com uma abordagem divertida e direta, com intuito de ser o mais clara, simples e acessíve :)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Roteiro e organição: Chat GPT
+- Narração: ElevenLabs
+- Edição: Capcut
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente foram elaborados prompts para geração do roteiro utilizado no podcast, nos arquivos desse repositório assim como a saída, a qual foi inserida no ElevenLabs gerando a narração editada em um podcast na ferramenta Capcut.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado do podcast pode ser encontrado [aqui]()
 
 ### Exemplos e Insigths
 
