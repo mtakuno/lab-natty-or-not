@@ -1,20 +1,17 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# ArduinoCast: o guia do mochileiro da robótica.
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+O podcast possui a temática de tecnologia, focando na linguagem c++ e em projetos de automação utilizando arduino, para entusiastas de tecnologia e DIY. Toda a estrutura foi pensada com uma abordagem divertida e direta, com intuito de ser o mais clara, simples e acessíve :)
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- Roteiro e organição: Chat GPT
+- Narração: ElevenLabs
+- Edição: Capcut
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+Inicialmente foram elaborados prompts no "ChatGPT" para geração do roteiro utilizado no podcast, nos arquivos desse repositório assim como a saída, a qual foi inserida no "ElevenLabs" gerando a narração editada em um podcast na ferramenta "Capcut".
 
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
 [LINK PARA O PODCAST AQUI]()
-
-## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
